@@ -1,1 +1,2 @@
-# Lecture 1 uses only built-in Python, no external libraries needed
+# Lecture 1 uses only Python, no external libraries needed
+# you can use "pip install python" command on your terminal to install python if not installed
