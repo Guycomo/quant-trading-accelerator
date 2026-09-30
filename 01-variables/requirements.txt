@@ -1,0 +1,1 @@
+# Lecture 1 uses only built-in Python, no external libraries needed
