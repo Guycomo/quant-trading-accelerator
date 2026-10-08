@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+torch
+scikit-learn
+hyperliquid-python-sdk
+websockets
+python-dotenv
