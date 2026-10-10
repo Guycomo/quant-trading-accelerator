@@ -62,7 +62,7 @@ Part 9 is different: the bot lives in the instructor's own repository and uses a
 
 ### What the course teaches (the short version)
 
-A quant strategy is a pipeline: **data → model → forecast → strategy → orders → exchange**. The course builds that whole pipeline on Bitcoin perpetual futures. Four ideas recur:
+A quant strategy is a pipeline : **data → model → forecast → strategy → orders → exchange**. The course builds that whole pipeline on Bitcoin perpetual futures. Four ideas recur:
 
 - **Win rate is not alpha.** A ~50.7% hit rate can still have positive expected value.
 - **Never shuffle time series.** Split by time, or the future leaks into training.
